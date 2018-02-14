@@ -1,0 +1,328 @@
+
+elevator.pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+addButton
+  rotate: false
+  xy: 840, 856
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+addButtonPressed
+  rotate: false
+  xy: 932, 952
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+arrButton
+  rotate: false
+  xy: 518, 359
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+arrButtonDownPressed
+  rotate: false
+  xy: 840, 790
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+arrButtonPressed
+  rotate: false
+  xy: 840, 724
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+arrowScroll
+  rotate: false
+  xy: 840, 658
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+arrowScrollPressed
+  rotate: false
+  xy: 777, 550
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+backgroundForButtons
+  rotate: false
+  xy: 840, 922
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 316
+  size: 514, 700
+  orig: 514, 700
+  offset: 0, 0
+  index: -1
+bigRedButton
+  rotate: false
+  xy: 584, 391
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bigRedButtonPressed
+  rotate: false
+  xy: 584, 357
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bottomBg
+  rotate: false
+  xy: 2, 54
+  size: 640, 260
+  orig: 640, 260
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 618, 413
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bus1
+  rotate: false
+  xy: 932, 922
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+bus2
+  rotate: false
+  xy: 906, 744
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+bus3
+  rotate: false
+  xy: 906, 714
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+bus4
+  rotate: false
+  xy: 906, 684
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+bus5
+  rotate: false
+  xy: 906, 654
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+buttons
+  rotate: false
+  xy: 998, 992
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+elevator
+  rotate: false
+  xy: 998, 928
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+elevator2
+  rotate: false
+  xy: 972, 884
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+elevator3
+  rotate: false
+  xy: 972, 846
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+elevatorsButton
+  rotate: false
+  xy: 2, 2
+  size: 98, 23
+  orig: 98, 23
+  offset: 0, 0
+  index: -1
+elevatorsButtonPressed
+  rotate: false
+  xy: 104, 29
+  size: 98, 23
+  orig: 98, 23
+  offset: 0, 0
+  index: -1
+emotions_angry
+  rotate: false
+  xy: 518, 322
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+emotions_closedeyes
+  rotate: false
+  xy: 840, 621
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+emotions_pokerface
+  rotate: false
+  xy: 906, 885
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+emotions_weird
+  rotate: false
+  xy: 906, 848
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+emotions_whistle1
+  rotate: false
+  xy: 906, 811
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+emotions_whistle2
+  rotate: false
+  xy: 906, 774
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+endGameBanner
+  rotate: false
+  xy: 518, 616
+  size: 320, 400
+  orig: 320, 400
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 518, 488
+  size: 257, 126
+  orig: 257, 126
+  offset: 0, 0
+  index: -1
+menuButton
+  rotate: false
+  xy: 204, 29
+  size: 98, 23
+  orig: 98, 23
+  offset: 0, 0
+  index: -1
+menuButtonPressed
+  rotate: false
+  xy: 304, 29
+  size: 98, 23
+  orig: 98, 23
+  offset: 0, 0
+  index: -1
+peaceOfProgressBar
+  rotate: false
+  xy: 504, 33
+  size: 2, 19
+  orig: 2, 19
+  offset: 0, 0
+  index: -1
+playButton
+  rotate: false
+  xy: 404, 29
+  size: 98, 23
+  orig: 98, 23
+  offset: 0, 0
+  index: -1
+playButtonPressed
+  rotate: false
+  xy: 2, 27
+  size: 100, 25
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+shoes
+  rotate: false
+  xy: 584, 323
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shoes1
+  rotate: false
+  xy: 906, 620
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shoes2
+  rotate: false
+  xy: 940, 620
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+toggleLeft
+  rotate: false
+  xy: 639, 422
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+toggleRight
+  rotate: false
+  xy: 705, 422
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+touch
+  rotate: false
+  xy: 998, 966
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+tutorialArrowDown
+  rotate: false
+  xy: 777, 484
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tutorialArrowLeftRight
+  rotate: false
+  xy: 518, 425
+  size: 119, 61
+  orig: 119, 61
+  offset: 0, 0
+  index: -1
+tutorialArrowUp
+  rotate: false
+  xy: 771, 418
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
